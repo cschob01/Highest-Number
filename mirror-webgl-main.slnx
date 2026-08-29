@@ -1,0 +1,18 @@
+﻿<Solution>
+  <Project Path="Mirror.csproj" />
+  <Project Path="Unity.Mirror.CodeGen.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Mirror.Components.csproj" />
+  <Project Path="Mirror.Editor.csproj" />
+  <Project Path="Mirror.Transports.csproj" />
+  <Project Path="Mirror.Examples.csproj" />
+  <Project Path="ParrelSync.csproj" />
+  <Project Path="kcp2k.csproj" />
+  <Project Path="SimpleWebTransport.csproj" />
+  <Project Path="TDxUnity3D.csproj" />
+  <Project Path="Mirror.Authenticators.csproj" />
+  <Project Path="Telepathy.csproj" />
+  <Project Path="TDxController.csproj" />
+  <Project Path="Mirror.CompilerSymbols.csproj" />
+  <Project Path="TDx.TDxUnity3D.Runtime.csproj" />
+</Solution>
